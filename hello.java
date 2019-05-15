@@ -1,7 +1,7 @@
 import java.io.*;
-class Hello
+class Main
 {
-public static void main(String args[])
+public static void main(String args[]) throws IOException
 {
 System.out.println("Hi");
 }
